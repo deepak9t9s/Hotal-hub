@@ -261,3 +261,4 @@ For issues or questions, please open an issue on GitHub or contact support.
 
 **Built with ❤️ using Next.js and Firebase**
 "# HotelHub" 
+"# HotelHub" 
